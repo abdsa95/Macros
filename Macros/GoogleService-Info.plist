@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>247779424036-nn33lqipt0lcq4povgp2e1phlddm05l7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.247779424036-nn33lqipt0lcq4povgp2e1phlddm05l7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARRUGJv6-qVvG4SjKJWo7c5lixFcWIPqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247779424036</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AljuaidAbdulaziz.Macros</string>
+	<key>PROJECT_ID</key>
+	<string>macros-6dffe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>macros-6dffe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247779424036:ios:67d85547fb1d62cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://macros-6dffe.firebaseio.com</string>
+</dict>
+</plist>
